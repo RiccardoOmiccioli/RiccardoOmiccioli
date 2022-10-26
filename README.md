@@ -1,15 +1,9 @@
 ## Riccardo Omiccioli
-
 - 🇮🇹 _Fano (61032), Marche, Italy_.
 - University student of _Engineering and Computer Science_ at the _University of Bologna_ (Cesena Campus).
 
-
 ### Some GitHub Stats
-
-<div align="center">
 ![RiccardoOmiccioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoOmiccioli&show_icons=true&theme=apprentice)
-</div>
-
 
 ### Some Languages and Tools
 <div align="left">
