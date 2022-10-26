@@ -7,7 +7,7 @@
 ### Some GitHub Stats
 
 <div align="center">
-[![RiccardoOmiccioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoOmiccioli&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![RiccardoOmiccioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoOmiccioli&show_icons=true&theme=apprentice)
 </div>
 
 
